@@ -1,3 +1,5 @@
+How this project was initialised?
+
 Step 1: Initialize a Node.js project
 ```npm init -y```
 
