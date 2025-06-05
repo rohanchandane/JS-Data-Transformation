@@ -24,3 +24,4 @@ Step 4: Create a TypeScript file
 | Sorting & Ordering   | `sort`, `reverse`                                          | Reorder items                           |
 | Search               | `find`, `findIndex`, `includes`, `indexOf`                 | Look for an item                        |
 | Combining/Cloning    | `concat`, `[...spread]`, `Object.assign`, `{...obj}`       | Merge or copy                           |
+| Conversion           | `JSON.stringify`, `JSON.parse`                             | Type conversion                         |

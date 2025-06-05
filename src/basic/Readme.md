@@ -55,3 +55,9 @@ concat: Combine [1, 2] and [3, 4].
 Spread array: Copy [9, 8, 7] using spread.
 
 Object.assign: Merge {a: 1} and {b: 2}.
+
+## Conversion
+
+JSON.stringify: convert `{ name: 'Rohan', age: 40 }` to string
+
+JSON.parse: convert string `'{ name: 'Rohan', age: 40 }'` to JSON
