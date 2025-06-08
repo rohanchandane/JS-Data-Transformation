@@ -54,4 +54,6 @@ concat: Merge ['a'] and ['b', 'c'].
 
 Spread array: Copy and add 0 at the beginning of [1, 2, 3].
 
+Spread array object: Merge `[{ id: 1, name: 'a' }, { id: 2, name: 'b' }]` with `[{ id: 1, group: 'c' }, { id: 2, group: 'd' }]`, id should not be repeated in merged object
+
 Object.assign: Merge {a: 1} and {b: 2}, but override a with 5.
